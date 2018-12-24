@@ -1,0 +1,19 @@
+
+
+# Scaler CSC
+lib/libexynosscaler.so
+lib/libexynosgscaler.so
+lib/libexynosutils.so
+
+# Gralloc
+# lib/hw/(?)) (Need to define temperory disabled) 
+# GPS
+bin/gpsd
+bin/gps.cer
+lib/hw/gps.default.so
+lib/libwrappergps.so
+lib/libfloatingfeature.so
+
+# Graphics
+vendor/lib/egl/libGLES_mali.so
+
